@@ -2,11 +2,17 @@
   "user" :[
     {
       "id": "12",
+      "email":"mj2000@gmail.com",
+      "password":"123456789",
+      "username":"MichelJ15",
       "name":"MICHEL",
       "firstName":"Jack"
     },
     {
       "id": "15",
+      "email":"a.rossu@gmail.com",
+      "password":"123456789",
+      "username":"Ranna_12",
       "name":"Anna",
       "firstName":"Rossu"
     }
